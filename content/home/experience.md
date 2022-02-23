@@ -36,14 +36,28 @@ experience:
         * Prepared homework questions and managed 2 Q&A sessions
         * Assisted 2 lectures and 2 tutorials
      
-  - title: Professor of Semiconductor Physics
-    company: University of Navarkulam
-    company_url: ''
+  - title: Research Project 
+    company: Learning and Adaptive Systems lab, ETH Zurich
+    company_url: 'https://las.inf.ethz.ch'
+    #company_logo: org-gc
+    location: Zurich
+    date_start: '2021-04-01'
+    date_end: ''
+    description: |2-
+        Contributions include:
+        
+        * Proposed an algorithm for Movement Penalized episodic contextual Bayesian optimization
+        * Theoretically analyzed the performance of the algorithm
+        * Ran simulations on both synthetic and real-world data
+       
+  - title: Research Intern
+    company: University of California San Diego
+    company_url: 'https://ucsd.edu/'
     #company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: San Diego
+    date_start: '2018-06-05'
+    date_end: '2018-07-31'
+    description: Developed an automated decoding algorithm in C++ to compare kernel permutations efficiently
 
 design:
   columns: '2'
