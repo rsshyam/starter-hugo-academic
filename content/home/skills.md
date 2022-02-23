@@ -26,7 +26,7 @@ feature:
   name: Python
 - description: 40%
   icon: C
-  icon_pack: fas
+  icon_pack: fab
   name: C/C++
 
 # Uncomment to use emoji icons.
