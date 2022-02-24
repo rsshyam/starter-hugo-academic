@@ -6,7 +6,7 @@ tags:
 date: "2016-04-27T00:00:00Z"
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}
 # Optional external URL for project (replaces project detail page).
-external_link: "uploads/demo_resume.pdf"
+external_link: "uploads/S.Ramesh_A.Bense_Report_GML (1).pdf"
 
 image:
   caption: Photo by rawpixel on Unsplash
